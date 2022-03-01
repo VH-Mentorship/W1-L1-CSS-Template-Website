@@ -1,6 +1,6 @@
 # Creating and styling a simple website with HTML & CSS
 
-Your goal for this takehome assignment is to create a webpage that resembles the template image below (no need to worry about getting the colors exactly right). We have provided you with some starter code in the `index.html` and `src/styles.css` files to help you get started. We also provided you with the image files embedded in the template page.
+Your goal for this takehome assignment is to create a webpage that resembles the template image below (no need to worry about getting the colors exactly right). We have provided you with some starter code in the `index.html` and `src/styles.css` files to help you get started. We've also included the image files embedded in the template page.
 
 ![template image](https://github.com/VH-Mentorship/CSS-Template-Website/blob/main/css_template.png?raw=true)
 
