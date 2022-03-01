@@ -1,4 +1,4 @@
-# Creating and styling a simple website with HTML & CSS
+# Workshop #1 Take-Home Level 1: HTML/CSS Practice!
 
 Your goal for this takehome assignment is to create a webpage that resembles the template image below (no need to worry about getting the colors exactly right). We have provided you with some starter code in the `index.html` and `src/styles.css` files to help you get started. We've also included the image files embedded in the template page.
 
