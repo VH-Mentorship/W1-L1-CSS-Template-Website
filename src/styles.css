@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Aldrich&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: midnightblue;
+  font-family: "Aldrich", sans-serif;
+}
